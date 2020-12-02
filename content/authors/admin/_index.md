@@ -18,12 +18,13 @@ organizations:
   url: "https://www.ikw.uni-osnabrueck.de/en/home.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include dungeon mastering, dice making and being terrible at paying attention to little presents.
+bio: My hobbies include dungeon mastering, dice making and board gaming in general.
 
 interests:
-- Personality
 - Decision Making
+- Data Communication
 - Game Theory
+- Personality & Differential Psychology
 - Artificial Intelligence
 
 
@@ -41,15 +42,21 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/Unsichtbarer
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/MarauderPixie
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/mq7zh/
+- icon: overleaf
+  icon_pack: ai
+  link: https://www.overleaf.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,9 +68,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-I'm a student of Cognitive Science at the University of Osnabrück. My major subjects are cognitive psychology and artificial intellgence and I took part in a study project to re-translate and comment on Alan Turing's "Computing Machines and Intelligence", which will be published in Reclam Verlag's series on 'sth sth philosophers of the 20th century oder so'.
+I'm a student of Cognitive Science at the University of Osnabrück. My major subjects are **cognitive psychology** and **artificial intellgence** and I took part in a study project to re-translate and comment on Alan Turing's _"Computing Machinery and Intelligence"_, which will be published in Reclam Verlag's 'Great Papers Philosophie' series.
