@@ -65,7 +65,7 @@ The official books use a bunch of fonts, some commercial and maybe a bit too pri
 
 The original font is **Njord**, which you can actually get for a reasonable ~16€. Free fonts similar to it are 
 
-- [Montserrat Regular](https://www.whatfontis.com/FF_Montserrat-Regular.font) - is _really_ close, it's a little bit more sleek and the only major differences are in the letters J and Q (and minor ones in E, F, L and Z)
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) - is _really_ close, it's a little bit more sleek and the only major differences are in the letters J and Q (and minor ones in E, F, L and Z); either the medium 500 or 600 weight in all caps will do
 - [Charger Sport Black Extended](https://www.whatfontis.com/FF_Charger-Sport-Black-Extended.font) - this better matches the thickness of Njord, but otherwise is off in quite a few ways
 
 ### Text Body

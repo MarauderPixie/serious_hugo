@@ -1,0 +1,11 @@
+# Font style metadata
+name = "SR5"
+
+# Optional Google font URL
+google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Rexlia"
+body_font = "Friz Quadrata"
+nav_font = "Klavika"
+mono_font = "Roboto Mono"
