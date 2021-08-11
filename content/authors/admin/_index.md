@@ -24,7 +24,7 @@ interests:
 - Decision Making
 - Data Communication
 - Game Theory
-- Personality & Differential Psychology
+- Cognitive Modeling
 - Artificial Intelligence
 
 
