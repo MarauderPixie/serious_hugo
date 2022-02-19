@@ -39,28 +39,25 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-rmd_hash: 8e320ad6d7178593
+rmd_hash: d513f30c51bfd635
 
 ---
 
-**tl;dr:** I made a $\LaTeX$ layout so my notes look somewhat like the official material. If you want to use it and feel comfortable tinkering a bit on your own, take a look at the font section of this post (to get the right ones) and skip to the end to download a zip file with the `.cls` and some other necessary ressources.
+**tl;dr:** I made a $\LaTeX$ layout so my notes look somewhat like the official material. If you want to use it and feel comfortable tinkering a bit on your own, take a look at the font section of this post (to get the right ones) and [follow this link](https://u.pcloud.link/publink/show?code=XZCVskVZTWMIC2LGQ1SEcGMQLe0pWzCGHAIX) to download a zip file with the `.cls` and some other necessary ressources.
 
 **Disclaimer**
 
 The layout is still unfinished and pretty much work in progress. There's no (proper) ToC yet, there are problems with spacing in headings, it's all right pages, etc., but I think it's already working and looking well enough to write a post about it.
 
-What's this?
-============
+# What's this?
 
 I never really delved deep into $\LaTeX$.
 
-Ressources
-==========
+# Ressources
 
 In order to get this thing rolling, we're going to need a few items. Here's a list.
 
-Alternatives to official fonts
-------------------------------
+## Alternatives to official fonts
 
 The official books use a bunch of fonts, some commercial and maybe a bit too pricey just to get a more official feeling to your hobby, so let me point you towards the ones we can get for free and a few alternatives for the ones we can't, so that we might at least get close.
 
@@ -68,7 +65,7 @@ The official books use a bunch of fonts, some commercial and maybe a bit too pri
 
 The original font is **Njord**, which you can actually get for a reasonable \~16€. Free fonts similar to it are
 
--   [Montserrat Regular](https://www.whatfontis.com/FF_Montserrat-Regular.font) - is *really* close, it's a little bit more sleek and the only major differences are in the letters J and Q (and minor ones in E, F, L and Z)
+-   [Montserrat](https://fonts.google.com/specimen/Montserrat) - is *really* close, it's a little bit more sleek and the only major differences are in the letters J and Q (and minor ones in E, F, L and Z); either the medium 500 or 600 weight in all caps will do
 -   [Charger Sport Black Extended](https://www.whatfontis.com/FF_Charger-Sport-Black-Extended.font) - this better matches the thickness of Njord, but otherwise is off in quite a few ways
 
 ### Text Body
@@ -84,8 +81,7 @@ Due to a lack of german umlauts (you know; ä, ö, ü), the font used there is *
 -   [Cheyenne Sans Medium](https://www.ffonts.net/Cheyenne-Sans-Medium.font) - gets pretty close, but it's the overall details that are off; somewhat more 'compressed' looking, wider/longer bows, that sorta thing; unfortunately, that's most noticeable in all lowercase letters
 -   [Mukta Mahee](https://fonts.google.com/specimen/Mukta+Mahee) - might be a better choice, either with the *Regular 400* or the *Medium 500* weight
 
-Artwork
--------
+## Artwork
 
 Aside from the fonts used, the most important elements of the layout are the background used on the pages, the several uses of the Shadowrun logo and the chapter pages. You can assemble these more or less easily by yourself from readily available sources (like [the fankit provided by Pegasus Press](https://www.shadowrun6.de/index.php/fanstuff-2/fankit.html)), but this wouldn't be a proper ressource guide if I wouldn't provide you the ones I use, would it?
 
@@ -95,8 +91,7 @@ Aside from the fonts used, the most important elements of the layout are the bac
 
 Here's another difference between the several sources and my stuff: the logo on the chapter background is darker across all original sources, sometimes even a different color (a dark, menacing red). What is used in which cases doesn't matter for this guide, but the difference is easily explained: I used the logo from previously mentioned fankit, but I think that's good enough.
 
-Elements of the Layout
-======================
+# Elements of the Layout
 
 Now to the actual $\LaTeX$ part. Let's break the layout down to some key elements. There are:
 
