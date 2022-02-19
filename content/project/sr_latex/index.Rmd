@@ -41,7 +41,7 @@ url_video: ""
 slides: ""
 ---
 
-**tl;dr:** I made a $\LaTeX$ layout so my notes look somewhat like the official material. If you want to use it and feel comfortable tinkering a bit on your own, take a look at the font section of this post (to get the right ones) and skip to the end to download a zip file with the `.cls` and some other necessary ressources.
+**tl;dr:** I made a $\LaTeX$ layout so my notes look somewhat like the official material. If you want to use it and feel comfortable tinkering a bit on your own, take a look at the font section of this post (to get the right ones) and [follow this link](https://u.pcloud.link/publink/show?code=XZCVskVZTWMIC2LGQ1SEcGMQLe0pWzCGHAIX) to download a zip file with the `.cls` and some other necessary ressources.
 
 
 **Disclaimer**
